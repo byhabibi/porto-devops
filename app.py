@@ -8,10 +8,7 @@ def home():
     <h1>DevOps Engineer Portfolio</h1>
     <p>Server running with Docker & Nginx reverse proxy</p>
     <p>Auto deployed from GitHub</p>
-
-    <p> =================================================== </p>
-    <p> Test auto deploy</p>
-    <p> Ini pake user dev</p>
+    <p> ======================================</p>
     """
 
 if __name__ == "__main__":
