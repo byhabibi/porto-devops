@@ -50,7 +50,7 @@ When code is pushed to the `main` branch:
 
 ### 📸 Automation Proof
 
-![Auto Deploy Proof](images/auto-deploy-proof.png)
+![Auto Deploy Proof](Auto Deploy.png)
 
 ---
 
